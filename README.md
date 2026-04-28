@@ -1,17 +1,17 @@
 # moc-automation-uipath
-## 📌 Overview
+##  Overview
 Automates Management of Change process including approvals and reporting.
 
-## ⚙️ Features
+##  Features
 - Multi-level approval workflow
 - Form submission tracking
 - Excel report generation
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - UiPath Studio
 - Data Fabric
 - Maestro
 
-## 🚀 Outcome
+##  Outcome
 - Improved process visibility
 - Faster approvals
